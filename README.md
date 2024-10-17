@@ -34,7 +34,6 @@ Este proyecto tiene como objetivo demostrar y practicar pruebas de seguridad en 
     ```
 
 3. Hemos decidido ejecutar este proyecto en un entorno virtual para aislar las dependencias:
-
     ```bash
     python3 -m venv venv
     source venv/bin/activate
